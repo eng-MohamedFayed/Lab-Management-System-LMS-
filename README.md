@@ -47,7 +47,7 @@ Usage
     Follow the prompts in the CLI to login and navigate through the menu options.
 
 ### project-structure
-
+```graphql
 Lab-Management-System/
 ├── cli/
 │   ├── CLI.py                # Command-line interface script
@@ -67,6 +67,7 @@ Lab-Management-System/
 │   │   ├── DFD/
 │   │   ├── SCHEMA/
 └── requirements.txt          # Python dependencies
+```
 
 Features
 
