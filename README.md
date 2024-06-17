@@ -38,13 +38,13 @@ Welcome to the Lab Management System (LMS) project. This system is designed to m
 
 ### Usage
 
-    Run the CLI script to interact with the LMS:
+   Run the CLI script to interact with the LMS:
 
-    bash
+   ```bash
 
     python cli/CLI.py
-
-    Follow the prompts in the CLI to login and navigate through the menu options.
+   ```
+ Follow the prompts in the CLI to login and navigate through the menu options.
 
 ### project-structure
 ```graphql
