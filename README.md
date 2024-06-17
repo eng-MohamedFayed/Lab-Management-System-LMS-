@@ -22,13 +22,13 @@ Welcome to the Lab Management System (LMS) project. This system is designed to m
    ```bash
    git clone https://github.com/yourusername/Lab-Management-System.git
    cd Lab-Management-System
-
+   ```
     Install the required Python packages:
 
-    bash
+   ```bash
 
     pip install -r requirements.txt
-
+   ```
     Set up the Oracle database:
         Install Oracle Database.
         Create a user LMS with password 123.
@@ -36,7 +36,7 @@ Welcome to the Lab Management System (LMS) project. This system is designed to m
 
     Update the database connection settings in the config/config.py file if needed.
 
-Usage
+### Usage
 
     Run the CLI script to interact with the LMS:
 
