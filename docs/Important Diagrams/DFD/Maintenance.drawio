@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net" modified="2023-12-25T00:23:20.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="48Xw5N_SoqYz3sjGGf0m" version="22.1.11" type="device">
+  <diagram name="Page-1" id="luprkxz4Sg0Ri3mIDj4t">
+    <mxGraphModel dx="725" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ta70fCUcpBiaC5LWqasB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uxte9Tt47OVvxH6o0-YY-1" target="uxte9Tt47OVvxH6o0-YY-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta70fCUcpBiaC5LWqasB-3" value="Receive&amp;nbsp;maintenance&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ta70fCUcpBiaC5LWqasB-2" vertex="1" connectable="0">
+          <mxGeometry x="-0.2065" y="2" relative="1" as="geometry">
+            <mxPoint x="52" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxte9Tt47OVvxH6o0-YY-1" value="2&lt;br&gt;Send maintenance request process" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="210" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uxte9Tt47OVvxH6o0-YY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uxte9Tt47OVvxH6o0-YY-2" target="uxte9Tt47OVvxH6o0-YY-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="74" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxte9Tt47OVvxH6o0-YY-2" value="1&lt;br&gt;Request maintenance process" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="-20" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uxte9Tt47OVvxH6o0-YY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="uxte9Tt47OVvxH6o0-YY-3" target="uxte9Tt47OVvxH6o0-YY-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uxte9Tt47OVvxH6o0-YY-3" value="3&lt;br&gt;Check complete maintenance process" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="615" y="60" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uxte9Tt47OVvxH6o0-YY-4" value="University admins" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="615" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uxte9Tt47OVvxH6o0-YY-5" value="Lab&amp;nbsp; staff" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uxte9Tt47OVvxH6o0-YY-10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.389;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="169.5" y="340" as="sourcePoint" />
+            <mxPoint x="169.5" y="90" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxte9Tt47OVvxH6o0-YY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uxte9Tt47OVvxH6o0-YY-11" target="uxte9Tt47OVvxH6o0-YY-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uxte9Tt47OVvxH6o0-YY-11" value="Maintenance requests" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="230" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uxte9Tt47OVvxH6o0-YY-14" value="Maintenance history" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="610" y="-20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uxte9Tt47OVvxH6o0-YY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.548;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="uxte9Tt47OVvxH6o0-YY-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="675" y="350" />
+              <mxPoint x="675" y="170" />
+            </Array>
+            <mxPoint x="675.5" y="349.77" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxte9Tt47OVvxH6o0-YY-22" value="Request equipment maintenance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="169.99662883788238" y="209.9970757700241" as="geometry" />
+        </mxCell>
+        <mxCell id="uxte9Tt47OVvxH6o0-YY-26" value="equipment maintained" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="674.9966288378823" y="264.99707577002414" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
