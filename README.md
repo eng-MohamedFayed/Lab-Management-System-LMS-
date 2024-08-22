@@ -36,7 +36,7 @@ Welcome to the Lab Management System (LMS) project. This system is designed to m
 
     Update the database connection settings in the config/config.py file if needed.
 
-### Usage
+## Usage
 
    Run the CLI script to interact with the LMS:
 
@@ -46,7 +46,7 @@ Welcome to the Lab Management System (LMS) project. This system is designed to m
    ```
  Follow the prompts in the CLI to login and navigate through the menu options.
 
-### project-structure
+## project-structure
 ```graphql
 Lab-Management-System/
 ├── cli/
@@ -69,7 +69,7 @@ Lab-Management-System/
 └── requirements.txt          # Python dependencies
 ```
 
-Features
+## Features
 
     User Authentication: Secure login for different user types (admin, student, etc.).
     Lab Reports: Generate and view lab reports.
@@ -77,7 +77,7 @@ Features
     Maintenance Requests: Create and manage maintenance requests.
     User Management: Add and remove users from the system.
 
-Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -88,6 +88,6 @@ Contributions are welcome! Please follow these steps:
     Push to the branch (git push origin feature-branch).
     Open a pull request.
 
-License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
